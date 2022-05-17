@@ -1,14 +1,14 @@
-@import '/css/tex-container.css';    
-@import '/css/other-container.css';    
-@import '/css/service-container.css';  
-@import '/css/button-send.css';      
+@import '../css/tex-container.css';    
+@import '../css/other-container.css';    
+@import '../css/service-container.css';  
+@import '../css/button-send.css';      
 
-@import '/css/contact-block.css';      
-@import '/css/container-Menssage.css';      
+@import '../css/contact-block.css';      
+@import '../css/container-Menssage.css';      
 
 
-@import '/css/container-blog.css';      
-@import '/css/container-Information.css';      
+@import '../css/container-blog.css';      
+@import '../css/container-Information.css';      
 
 .containerAll{
     position: relative;

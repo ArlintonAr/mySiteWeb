@@ -1,6 +1,6 @@
 
-@import '/css/navegation.css';
-@import '/css/containerGlobal.css';
+@import '../css/navegation.css';
+@import '../css/containerGlobal.css';
 
 body{
     box-sizing: border-box;

@@ -1,10 +1,10 @@
 
-@import '/css/navegation.css';
-@import '/css/left-container.css';
-@import '/css/container.css';
-@import '/css/center-container.css';
-@import '/css/right-container.css';
-@import '/css/button-big.css';
+@import '../css/navegation.css';
+@import '../css/left-container.css';
+@import '../css/container.css';
+@import '../css/center-container.css';
+@import '../css/right-container.css';
+@import '../css/button-big.css';
 
 
 .containerGlobal{

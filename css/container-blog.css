@@ -1,7 +1,7 @@
 
-@import '/css/container-articles.css';
-@import '/css/article-button.css';
-@import '/css/articles-.css';
+@import '../css/container-articles.css';
+@import '../css/article-button.css';
+@import '../css/articles-.css';
 .containerBlog{
     position: relative;
     top: 2rem;

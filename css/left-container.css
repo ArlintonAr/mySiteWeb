@@ -1,9 +1,9 @@
 
-@import '/css/textBienvenida.css';
-@import '/css/descriptionWeb.css';
-@import '/css/buttonLeft.css';
-    @import '/css/buttons.css';
-@import '/css/mis-redes.css';    
+@import '../css/textBienvenida.css';
+@import '../css/descriptionWeb.css';
+@import '../css/buttonLeft.css';
+    @import '../css/buttons.css';
+@import '../css/mis-redes.css';    
 
 .leftContainer{
     

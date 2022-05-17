@@ -1,7 +1,7 @@
-@import '/css/baseStyle.css';
-@import '/css/search.css';
-@import '/css/listaMenu.css';
-@import '/css/logo.css';
+@import '../css/baseStyle.css';
+@import '../css/search.css';
+@import '../css/listaMenu.css';
+@import '../css/logo.css';
 
 .navegation{
     position: sticky;
