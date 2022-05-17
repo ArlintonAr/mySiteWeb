@@ -1,0 +1,33 @@
+.search{
+
+    inline-size: 13.4rem;
+    block-size: 3rem;
+position: relative;
+   
+
+}
+
+.search input{
+    inline-size: 13.4rem;
+    block-size: 3rem;
+    border-radius: 2rem;
+    border-style: none;
+    padding: 1rem;
+  
+}
+
+.search  i{
+    color: black;
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+
+    inline-size: 1rem;
+    block-size: 1rem;
+}
+.search  span{
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+    color: var(--colorOscuro);
+}

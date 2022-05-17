@@ -1,0 +1,10 @@
+
+.textContainer{
+    font: var(--encabezadoGrande);
+    color: var(--colorVerde);
+    inline-size: 10rem;
+    block-size: ;
+}
+.textContainer p{
+    margin: 0;
+}

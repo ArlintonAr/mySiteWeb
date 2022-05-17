@@ -1,0 +1,16 @@
+.buttonSend{
+ 
+    inline-size:3rem ;
+    block-size: 3rem;
+    background-color: var(--colorRojo);
+    border-radius: 50%;
+    cursor: pointer;
+
+    position: relative;
+}
+.buttonSend i{
+    position: absolute;
+    color: var(--colorBlanco);
+    top:1rem ;
+    left: 1rem;
+}

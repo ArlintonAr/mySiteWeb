@@ -1,0 +1,15 @@
+
+.buttonsLeft{
+
+inline-size:23.06rem ;
+block-size: 3rem;
+padding: 0;
+
+color: var(--colorBlanco);
+
+display: flex;
+justify-content: space-between;
+}
+.buttonsLeft i{
+    color: var(--colorBlanco);
+}

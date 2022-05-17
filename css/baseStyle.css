@@ -1,0 +1,23 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&family=Raleway:ital,wght@0,100;0,200;0,300;1,200&display=swap');
+
+
+:root{
+    font-family: Quicksand;
+    --colorOscuro: #474862;
+    --colorBlanco: #EAEBED;
+    --colorAmarillo: #FFD782;
+    --colorVerde: #46A8A7;
+   --colorRojo: #EF4B4C;
+
+   --tituloPrincipal: 700 3rem Quicksand;
+   --encabezadoGrande: 700 2rem Quicksand;
+   --encabezadoMediano:700 1.5rem Quicksand;
+   --encabezadoPequeño: 700 1.1rem Quicksand;
+   
+   --frases:700 1rem Quicksand;
+   --botones:700 0.75rem Quicksand;;
+   --parrafos: 400 0.75rem Quicksand;
+   --textoPequeño:400 0.5rem Quicksand;
+}
+

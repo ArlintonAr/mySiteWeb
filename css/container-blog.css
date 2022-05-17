@@ -1,0 +1,20 @@
+
+@import '/css/container-articles.css';
+@import '/css/article-button.css';
+@import '/css/articles-.css';
+.containerBlog{
+    position: relative;
+    top: 2rem;
+    
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    justify-content: space-around;
+
+
+   
+    inline-size:76rem ;
+    block-size:35.18rem;
+    
+
+}

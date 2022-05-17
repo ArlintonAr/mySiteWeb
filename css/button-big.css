@@ -1,0 +1,35 @@
+.buttonBig{
+
+    inline-size: 8.62rem;
+    block-size:8.62rem ;
+    margin: 0;
+
+    position: relative;
+    top: 20.12rem;
+    left: 7.5rem;
+
+    border-style: none;
+    border-radius: 50%;  
+   
+   
+    -webkit-backdrop-filter: blur(2px);
+    backdrop-filter: blur(2px);
+    background-color: rgba(255,255,255, 0.2);
+}
+
+.buttonBig i{
+    margin: 0;
+    font-size: 3rem;
+    color: var(--colorVerde);
+    position: absolute;
+    top: 2.87rem;
+    left: 2.87rem;
+    z-index: 1;
+
+    cursor: pointer;
+
+}
+.buttonBig img{
+    position: absolute;
+    left: .8rem;
+}

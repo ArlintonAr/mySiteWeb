@@ -1,0 +1,21 @@
+@import '/css/tex-container.css';    
+@import '/css/other-container.css';    
+@import '/css/service-container.css';  
+@import '/css/button-send.css';      
+
+@import '/css/contact-block.css';      
+@import '/css/container-Menssage.css';      
+
+
+@import '/css/container-blog.css';      
+@import '/css/container-Information.css';      
+
+.containerAll{
+    position: relative;
+    top: 2rem;
+    display: flex;
+    inline-size:76rem ;
+    block-size:35.18rem;
+    justify-content: space-between;
+    
+}

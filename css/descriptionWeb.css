@@ -1,0 +1,17 @@
+.descriptionWeb{
+    color: var(--colorBlanco);
+
+    inline-size:23.06rem ;
+    padding: 1rem;
+    display: flex;
+    padding: 0;
+
+    font: var(--parrafos);
+}
+.line {
+
+    inline-size: 3rem;
+    block-size: 0.1rem;
+    flex-shrink: 0;
+    background-color: var(--colorBlanco);
+}

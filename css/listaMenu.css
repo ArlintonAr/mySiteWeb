@@ -1,0 +1,27 @@
+.listMenu{
+    color: var(--colorBlanco);
+    inline-size: 37.5rem;
+    block-size: 3rem;
+    display: flex;
+    justify-content: center;
+}
+.listMenu ul{
+    list-style: none;
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+    padding: 0;
+
+   
+}
+.listMenu a{
+    text-decoration: none;
+}
+.listMenu li{
+    color: var(--colorBlanco);
+    font:var(--frases) ;
+}
+.listMenu li:hover{
+    color: var(--colorVerde);
+   
+}

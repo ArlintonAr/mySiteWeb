@@ -1,0 +1,13 @@
+.centerContainer{
+    inline-size:23.06rem ;
+    block-size:35.18rem;
+
+   position: relative; /* Esta etiqueta ayuda a la clase poligono
+   a centrarse de acuerdo a su contenedor*/
+}
+
+.imgFotoPoligono{
+
+  position: absolute;
+  top: 0;
+}

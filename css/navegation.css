@@ -1,0 +1,19 @@
+@import '/css/baseStyle.css';
+@import '/css/search.css';
+@import '/css/listaMenu.css';
+@import '/css/logo.css';
+
+.navegation{
+    position: sticky;
+   top: 0;
+    block-size: 3rem;
+    inline-size: 76rem;
+
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    
+    z-index: 1;
+    background-color: var(--colorOscuro);
+    border-radius: 2rem;
+}

@@ -1,0 +1,40 @@
+.contactMessageRedes{
+    display: flex;
+    flex-direction: column;
+    gap: 6rem;
+    align-items: flex-end;
+
+    position: relative;
+    top:2rem;
+}
+.containerMessage{
+    display: flex;
+    gap: 1rem;
+    justify-content: flex-end;
+    align-items:flex-end;
+}
+.messageInput{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+
+
+}
+.name{
+    block-size: 3rem;
+    inline-size: 27.87rem;
+
+    border-radius: 2rem;
+    border: none;
+    box-sizing: border-box;
+    padding: 1.5rem;
+}
+.message{
+    block-size: 8rem;
+    inline-size: 27.87rem;
+    border-radius: 2rem;
+    border: none;
+    box-sizing: border-box;
+    padding: 1.5rem;
+    
+}

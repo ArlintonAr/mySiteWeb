@@ -1,0 +1,28 @@
+.textBienvenida{
+   
+    inline-size:23.06rem ;
+    block-size:16.12rem ;
+
+
+    position: relative;
+
+    padding: .5rem;
+
+}
+
+.textBienvenida .rotate{
+    margin: 0;
+   
+    top: 0;
+    position: absolute;
+    color: var(--colorRojo);
+    font: var(--frases);
+    transform: rotate(-35deg);
+}
+.textBienvenida p{
+    margin: 0;
+    position: absolute;
+    top: 1rem;
+    color: var(--colorBlanco);
+    font: var(--tituloPrincipal);
+}

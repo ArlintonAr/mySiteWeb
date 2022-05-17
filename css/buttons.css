@@ -1,0 +1,19 @@
+.buttonStyle{
+    block-size: 3rem;
+    inline-size: 8.625rem;
+    border-radius: 2rem;
+    border-style: none;
+
+    color: var(--colorBlanco);
+    background-color: var(--colorVerde);
+    font: var(--botones);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: .8rem;
+
+    cursor: pointer;
+    
+
+}

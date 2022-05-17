@@ -1,0 +1,18 @@
+
+@import '/css/textBienvenida.css';
+@import '/css/descriptionWeb.css';
+@import '/css/buttonLeft.css';
+    @import '/css/buttons.css';
+@import '/css/mis-redes.css';    
+
+.leftContainer{
+    
+    
+    inline-size:23.06rem ;
+    block-size: 35.18rem;
+
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    
+}

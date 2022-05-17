@@ -1,0 +1,12 @@
+
+.rightContainer{
+
+    inline-size:23.06rem ;
+    block-size: 35.18rem;
+}
+.rightContainer p{
+    text-align: right;
+    margin: 0;
+    color: var(--colorBlanco);
+    font: var(--frases);
+}

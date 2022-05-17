@@ -1,0 +1,16 @@
+.articleButton{
+    inline-size:3rem ;
+    block-size: 3rem;
+    background-color: var(--colorRojo);
+    border-radius: 50%;
+    position: relative;
+
+    flex-shrink: 0;
+    cursor: pointer;
+}
+.articleButton i{
+    color: var(--colorBlanco);
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+}

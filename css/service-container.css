@@ -1,0 +1,50 @@
+.serviceContainer{
+    block-size: 8rem;
+
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+.lineDecoration{
+    background-color: var(--colorBlanco);
+    inline-size: 47.12rem;
+    block-size: .1rem;
+}
+.item{
+
+    inline-size: 4rem;
+    
+   
+}
+.service{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.serviceText{
+
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+    position: relative;
+    left: 5.3rem;
+}
+
+.item p{
+    margin: 0;
+    text-align: center;
+    color: var(--colorBlanco);
+    font: var(--encabezadoPequeño);
+}
+
+.serviceTittle p{
+    margin: 0;
+    color: var(--colorBlanco);
+    font: var(--encabezadoMediano);
+}
+.serviceDescription p{
+    margin: 0;
+    color: var(--colorBlanco);
+    font: var(--parrafos);
+}

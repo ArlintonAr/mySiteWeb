@@ -1,0 +1,33 @@
+.misRedes{
+
+    inline-size:23.06rem ;
+    block-size: 3rem;
+
+    color: var(--colorBlanco);
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.iconRedes{
+
+    inline-size: 13.43rem;
+
+    display: flex;
+    gap: 2rem;
+    justify-content: space-between;
+}
+.iconRedes i{
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+#facebook{
+    color: rgb(27, 129, 197) ;
+}
+#instagram{
+    color: rgb(94, 2, 71) ;
+}
+#twitter{
+    color: rgb(27, 129, 197) ;
+}

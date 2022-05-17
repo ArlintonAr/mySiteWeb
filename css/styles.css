@@ -1,0 +1,10 @@
+
+@import '/css/navegation.css';
+@import '/css/containerGlobal.css';
+
+body{
+    box-sizing: border-box;
+    background-color: var(--colorOscuro);
+
+    margin: 0;
+}
